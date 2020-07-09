@@ -1,13 +1,9 @@
 # Quizzler-iOS13
 
 ## Goal
-The goal of this tutorial is to take you one step further in your journey of becoming an app developer. We are going to introduce you to the holy grail of mobile design patterns: the Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimised solution to a common software problem and you’ll learn more about this when use in the tutorial.
-
-
 The goal of this project is to take one step further in my journey of becoming an app developer. Intro to holy grail of mobile design patterns: the Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimized solution to a common software problem.
 
 ## What I have learned
-
 * How to programmatically change UI elements such as Labels and Buttons.
 * What is a design pattern and how is it used in programming.
 * How to use the Model-View-Controller or MVC pattern for app development.
@@ -19,7 +15,6 @@ The goal of this project is to take one step further in my journey of becoming a
 * How to refactor code and stay organised.
 
 ## Default Quiz
-
 ```
   Question(q: "A slug's blood is green.", a: "True"),
         Question(q: "Approximately one quarter of human bones are in the feet.", a: "True"),
@@ -36,7 +31,6 @@ The goal of this project is to take one step further in my journey of becoming a
 ```
 
 ## Multiple Choice Quiz
-
 ```
  Question(q: "Which is the largest organ in the human body?", a: ["Heart", "Skin", "Large Intestine"], correctAnswer: "Skin"),
         Question(q: "Five dollars is worth how many nickels?", a: ["25", "50", "100"], correctAnswer: "100"),
