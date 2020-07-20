@@ -1,4 +1,4 @@
-# Quizzler-iOS13
+# Quizzer-iOS13-testing
 
 ## Goal
 The goal of this project is to take one step further in my journey of becoming an app developer. Intro to holy grail of mobile design patterns: the Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimized solution to a common software problem.
