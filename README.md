@@ -1,20 +1,17 @@
-# Quizzer-iOS13-testing
-a
-## Goal
-The goal of this project is to take one step further in my journey of becoming an app developer. Intro to holy grail of mobile design patterns: the Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimized solution to a common software problem.
+## What I have learned:
 
-## What I have learned
-* How to programmatically change UI elements such as Labels and Buttons.
 * What is a design pattern and how is it used in programming.
 * How to use the Model-View-Controller or MVC pattern for app development.
-* Learn about Swift Structures how to instantiate a struct instance.
-* Understand the difference between value types and reference types.
-* Learn about Swift Classes and creating Objects.
-* Compare Swift Classes with Swift Structs and know when to use which.
+* Swift structures and functions with outputs.
 * Learn about Object Oriented Programming.
+* Learn to use UIAlertControllers to display popups to the user.
 * How to refactor code and stay organised.
+* Learn about object initialisation. 
+* How to programmatically change UI elements such as Labels and Views.
+
 
 ## Default Quiz
+
 ```
   Question(q: "A slug's blood is green.", a: "True"),
         Question(q: "Approximately one quarter of human bones are in the feet.", a: "True"),
@@ -31,6 +28,7 @@ The goal of this project is to take one step further in my journey of becoming a
 ```
 
 ## Multiple Choice Quiz
+
 ```
  Question(q: "Which is the largest organ in the human body?", a: ["Heart", "Skin", "Large Intestine"], correctAnswer: "Skin"),
         Question(q: "Five dollars is worth how many nickels?", a: ["25", "50", "100"], correctAnswer: "100"),
@@ -42,4 +40,4 @@ The goal of this project is to take one step further in my journey of becoming a
         Question(q: "What alcoholic drink is made from molasses?", a: ["Rum", "Whisky", "Gin"], correctAnswer: "Rum"),
         Question(q: "What type of animal was Harambe?", a: ["Panda", "Gorilla", "Crocodile"], correctAnswer: "Gorilla"),
         Question(q: "Where is Tasmania located?", a: ["Indonesia", "Australia", "Scotland"], correctAnswer: "Australia")
-```
+```        
